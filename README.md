@@ -69,7 +69,7 @@ The data required cleaning and preprocessing:
 
 ## Tools Used
 - Python (pandas, numpy, scikit-learn, matplotlib)
-- Jupyter Notebook / Google Colab
+- Google Colab
 
 ---
 
